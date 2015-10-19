@@ -5,6 +5,6 @@
     <title>Document Test Git</title>
 </head>
 <body>
-    
+    <p>Test new line</p>
 </body>
 </html>
