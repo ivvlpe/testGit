@@ -1,0 +1,1094 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"insert",
+				"insertAdjacentHTML(${0:position}, text)	Element"
+			],
+			[
+				"last",
+				"lastChild	Node"
+			],
+			[
+				"cre",
+				"createDocumentFragment()	Document"
+			],
+			[
+				"fu",
+				"function(){\n	$0\n})();	(function(){\n	$0\n})();"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"call",
+				"call(${0:thisArg})	Function"
+			],
+			[
+				"get",
+				"getElementsByName(${0:name})	Element"
+			],
+			[
+				"getElementBy",
+				"getElementsByName(${0:name})	Element"
+			],
+			[
+				"type",
+				"nodeType	Node"
+			],
+			[
+				"all",
+				"document.querySelectorAll(${0:selectors})	Document"
+			],
+			[
+				"getby",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"text",
+				"new Text()	Text"
+			],
+			[
+				"fir",
+				"firstChild()	TreeWalker"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"qe",
+				"querySelectorAll(${0:selectors})	Element"
+			],
+			[
+				"p",
+				"paragrafs"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"d",
+				"doc"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"co",
+				"copy"
+			],
+			[
+				"copy",
+				"copy_test_list"
+			],
+			[
+				"te",
+				"test_list	statement"
+			],
+			[
+				"tess",
+				"copy_test_list"
+			],
+			[
+				"cop",
+				"copy_test_list	statement"
+			],
+			[
+				"re",
+				"reverse	function"
+			],
+			[
+				"s",
+				"sort	function"
+			],
+			[
+				"in",
+				"index	function"
+			],
+			[
+				"li",
+				"list	class"
+			],
+			[
+				"_",
+				"_Id"
+			],
+			[
+				"St",
+				"__Status"
+			],
+			[
+				"S",
+				"Status_Allowed"
+			],
+			[
+				"de",
+				"def	Function"
+			],
+			[
+				"A",
+				"A"
+			],
+			[
+				"f",
+				"func"
+			],
+			[
+				"pa",
+				"part_milk"
+			],
+			[
+				"__",
+				"__Milk"
+			],
+			[
+				"pr",
+				"part_milk"
+			],
+			[
+				"r",
+				"raise"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"a",
+				"add_mink"
+			],
+			[
+				"add",
+				"add_water"
+			],
+			[
+				"W",
+				"window"
+			],
+			[
+				"t",
+				"createTextNode"
+			],
+			[
+				"con",
+				"console.	.assert(assertion, message)"
+			],
+			[
+				"on",
+				"onchange	Attr"
+			],
+			[
+				"q",
+				"quackBehavior"
+			],
+			[
+				"fly",
+				"flyBehavior"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"Fl",
+				"FlyNoWay"
+			],
+			[
+				"m",
+				"Milhouse"
+			],
+			[
+				"Pl",
+				"PlaceSetting"
+			],
+			[
+				"ca",
+				"Cartun"
+			],
+			[
+				"cl",
+				"cl	java"
+			],
+			[
+				"app",
+				"apply"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"Sy",
+				"Sy	println"
+			],
+			[
+				"V",
+				"valve1"
+			],
+			[
+				"ne",
+				"nextInt"
+			],
+			[
+				"ma",
+				"marker"
+			],
+			[
+				"Mu",
+				"Mugs"
+			],
+			[
+				"M",
+				"Mugs"
+			],
+			[
+				"mu",
+				"mug2"
+			],
+			[
+				"mug",
+				"mug1"
+			],
+			[
+				"C",
+				"Cups"
+			],
+			[
+				"c",
+				"cupboard"
+			],
+			[
+				"B",
+				"Bowl"
+			],
+			[
+				"Bo",
+				"bowl4"
+			],
+			[
+				"b",
+				"bowl2"
+			],
+			[
+				"P",
+				"printInitialValues"
+			],
+			[
+				"tr",
+				"Tree"
+			],
+			[
+				"Ra",
+				"RandomFloat"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"E",
+				"echo"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"nw",
+				"new"
+			],
+			[
+				"I",
+				"IntStack"
+			],
+			[
+				"int",
+				"IntStack"
+			],
+			[
+				"im",
+				"implements"
+			],
+			[
+				"sh",
+				"Shipment"
+			],
+			[
+				"box",
+				"BoxWeight"
+			],
+			[
+				"my",
+				"myBox"
+			],
+			[
+				"myBox",
+				"myBoxWeight1"
+			],
+			[
+				"sta",
+				"statB"
+			],
+			[
+				"My",
+				"MyStack1"
+			],
+			[
+				"n",
+				"nums"
+			],
+			[
+				"nu",
+				"nums"
+			],
+			[
+				"конт",
+				"контакта"
+			],
+			[
+				"ta",
+				"table_name"
+			],
+			[
+				"colu",
+				"column_name"
+			],
+			[
+				"cin",
+				"contractor_id"
+			],
+			[
+				"cont",
+				"contractor"
+			],
+			[
+				"CO",
+				"contractor"
+			],
+			[
+				"TA",
+				"TABLE"
+			],
+			[
+				"кон",
+				"контакта"
+			],
+			[
+				"N",
+				"NOT"
+			],
+			[
+				"това",
+				"товаров"
+			],
+			[
+				"REQ",
+				"REQUEST_URI"
+			],
+			[
+				"clea",
+				"clearStr"
+			],
+			[
+				"DB_",
+				"DB_HOST"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/java.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/java.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/nodejs.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/node.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				],
+				[
+					"Packages/User/nodejs.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/node.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"prtett",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"set jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set scr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insal",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Javatar: Browse Commands..."
+			],
+			[
+				"set",
+				"Set Syntax: C"
+			],
+			[
+				"SET SQ",
+				"Set Syntax: SQL"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"paca",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 615.0
+	},
+	"console":
+	{
+		"height": 332.0,
+		"history":
+		[
+			"python hello.py",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/git"
+	],
+	"file_history":
+	[
+		"/C/git/docs/file2.txt",
+		"/C/git/file1.txt",
+		"/C/git/docs/index.php",
+		"/C/OpenServer/domains/ivvlpe/css/style.css",
+		"/C/OpenServer/domains/ivvlpe/js.js",
+		"/C/Users/Иван/Downloads/Продажи недели 2015.10.12.txt",
+		"/C/OpenServer/domains/ivvlpe/index.php",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/Иван/Desktop/Продажи недели 2015.10.12",
+		"/C/Users/Иван/Downloads/test.js",
+		"/C/Users/Иван/Downloads/index.php",
+		"/C/Users/Иван/Documents/Dropbox/Личные файлы/SublimeProjeckt/JavaScript_bookmarklets",
+		"/C/Users/Иван/Desktop/script.html",
+		"/C/Users/Иван/Downloads/testuserscript.user.js",
+		"/C/Users/Иван/Documents/MailRuCloud/Python/learning/specialistlearning/types/list.py",
+		"/C/Users/Иван/Documents/MailRuCloud/Python/learning/specialistlearning/Classes1/stakan.py",
+		"/C/Users/Иван/Documents/MailRuCloud/Python/learning/specialistlearning/Classes1/example.py",
+		"/C/Users/Иван/Documents/MailRuCloud/Python/learning/specialistlearning/Document/mDocument.py",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/User/python.sublime-setting",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Иван/Documents/MailRuCloud/Python/learning/specialistlearning/helloNode.js",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/User/asdf.sublime-snippet",
+		"/C/Users/Иван/Documents/MailRuCloud/Python/learning/specialistlearning/hello.py",
+		"/C/Users/Иван/Downloads/Счет на оплату покупателю № КИП09250012 от 25 сентября 2015.pdf",
+		"/C/www/test.txt",
+		"/C/Users/Иван/IdeaProjects/pattern/src/innerclass/Callbacks.java",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/User/nodejs.sublime-build",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/User/print.sublime-macro",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/HaxLogs.txt",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Installed Packages/PyV8/win64-p3/PyV8.py",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/User/java.sublime-build",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/C/Users/Иван/Downloads/test.html",
+		"/C/Users/Иван/Downloads/jdk-8u60-windows-x64-demos/jdk1.8.0_60/demo/javafx_samples/samples_readme.txt",
+		"/C/Users/Иван/Desktop/ЛС243302813633_номер79195009440_с_23062015_по_23092015.xml",
+		"/C/Users/Иван/Desktop/index.php",
+		"/C/Users/Иван/Downloads/htaccess",
+		"/C/Users/Иван/Downloads/default.php",
+		"/C/Users/Иван/Desktop/тест.xml",
+		"/C/Users/Иван/Downloads/0235.xml",
+		"/C/maventest/testmaven/src/main/java/testmaven/PippoApplication.java",
+		"/C/apache-maven-3.3.3/README.txt",
+		"/C/maventest/testmaven/src/main/java/testmaven/PippoLauncher.java",
+		"/C/Users/Иван/Documents/MailRuCloud/Python/main.py",
+		"/C/Users/Иван/Desktop/console.py",
+		"/C/Users/Иван/Documents/MailRuCloud/Python/learning/foo.py",
+		"/C/Users/Иван/Documents/Dropbox/Личные файлы/Backup MyLifeOrganized/Архив дел от 20.08.2015 для MyLifeOrganaized.xml",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/User/python.sublime-build",
+		"/C/Users/Иван/Documents/Dropbox/Личные файлы/Backup MyLifeOrganized/Архив дел от 20.08.2015 для Excel.xml",
+		"/C/Python27/README.txt",
+		"/C/Users/Иван/Desktop/тест.csv",
+		"/C/patternJava/pattern/src/factory1/HYStylePizzaStore.java",
+		"/C/patternJava/pattern/src/factory1/Pizza.java",
+		"/C/patternJava/pattern/src/factory1/ChicagoStylePizzaStore.java",
+		"/C/javaLearning/src/ru/pattern/MallardDuck.java",
+		"/C/javaLearning/src/ru/pattern/Duck.java",
+		"/C/javaLearning/src/ru/pattern/ModelDuck.java",
+		"/C/javaLearning/src/ru/pattern/FlyRockedPowered.java",
+		"/C/javaLearning/src/ru/pattern/Quack.java",
+		"/C/javaLearning/src/ru/pattern/MiniDuckSimulator.java",
+		"/C/javaLearning/src/ru/pattern/Queak.java",
+		"/C/javaLearning/src/ru/pattern/MuteQuack.java",
+		"/C/javaLearning/src/ru/pattern/QuackBehavior.java",
+		"/C/javaLearning/src/ru/pattern/FlyBehavior.java",
+		"/C/javaLearning/src/ru/pattern/FlyWithWings.java",
+		"/C/javaLearning/src/ru/pattern/FlyNoWay.java",
+		"/C/javaLearning/src/ru/ivvlpe/SimplConstruct2.java",
+		"/C/javaLearning/src/ru/reusing/SplinklerSystem.java",
+		"/C/javaLearning/src/ru/reusing/Override.java",
+		"/C/javaLearning/src/ru/pattern/1",
+		"/C/Users/Иван/Desktop/фвафафа.xml",
+		"/C/Users/Иван/Desktop/Основная.xml",
+		"/C/javaLearning/src/ru/reusing/Bath.java",
+		"/C/javaLearning/src/ru/reusing/Detergent.java",
+		"/C/javaLearning/src/ru/reusing/Cartun.java",
+		"/C/javaLearning/src/ru/reusing/Chess.java",
+		"/C/javaLearning/src/ru/reusing/PlaceSetting.java",
+		"/C/javaLearning/src/ru/reusing/Hide.java",
+		"/C/javaLearning/src/ru/ivvlpe/ru/reusing/Sss.java",
+		"/C/javaLearning/src/SplinklerSystem.java",
+		"/C/javaLearning/src/ru/ivvlpe/StaticInitialize.java",
+		"/C/javaLearning/src/ru/ivvlpe/ArraysOfPrimitives.java",
+		"/C/javaLearning/src/ru/ivvlpe/ArrayNew.java",
+		"/C/javaLearning/src/ru/ivvlpe/ArrayClassOj.java",
+		"/C/javaLearning/src/ru/ivvlpe/ArrayInit.java",
+		"/C/javaLearning/src/ru/ivvlpe/VarArgs.java",
+		"/C/javaLearning/src/ru/ivvlpe/ForEachString.java",
+		"/C/javaLearning/src/ru/ivvlpe/ArreyOfPrimitives.java",
+		"/C/javaLearning/src/ru/ivvlpe/ExplicitStatic.java",
+		"/C/javaLearning/src/ru/ivvlpe/Mugs.java",
+		"/C/javaLearning/src/StaticInitialize.java",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/Javatar/Default (Windows).sublime-keymap",
+		"/C/javaLearning/src/ru/ivvlpe/One.java",
+		"/C/javaLearning/src/ru/ivvlpe/Overloading.java",
+		"/C/javaLearning/src/ru/ivvlpe/Leaf.java",
+		"/C/javaLearning/src/ru/ivvlpe/InitialVlues.java",
+		"/C/javaLearning/src/ru/ivvlpe/OrderOfInitialize.java",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/User/JavaSE8.javatar-packages",
+		"/C/javaLearning/javaProjeckt.sublime-project",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/User/println.sublime-snippet",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/User/java.sublime-snippet",
+		"/C/javaLearning/src/ru/ivvlpe/OneStep.java",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/Javatar/Developers/Proto.javatar-packages",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/Javatar/One.java",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/Javatar/OneStep.java",
+		"/C/javaLearning/src/OneStep.java",
+		"/C/javaLearning/OneStep.java",
+		"/C/javaLearning/src/ferstStepJava.java",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/Javatar/README.md",
+		"/C/Users/Иван/Documents/MailRuCloud/1С обучение/ОперацииСЧислами_ Модуль объекта.txt",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/User/c99/printf.sublime-snippet",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/User/c99/main.sublime-snippet",
+		"/C/C/function.c",
+		"/C/sourse/test.txt",
+		"/C/Users/Иван/AppData/Roaming/Sublime Text 3/Packages/User/c99/hello.sublime-snippet",
+		"/C/OpenServer/domains/js/action.php",
+		"/C/OpenServer/domains/js/index.php",
+		"/C/Users/Иван/OneDrive/JS/var/1.html",
+		"/C/Users/Иван/OneDrive/JS/var/sourse.js",
+		"/C/Users/Иван/Desktop/ШаблоныБаз/1c/trade/11_1_2_22/ReadMe.txt",
+		"/C/Users/Иван/Downloads/0176.xml",
+		"/C/Users/Иван/Downloads/0169.xml",
+		"/C/Users/Иван/Downloads/0173.xml"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"C:\\javaLearning"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"id\"",
+			" год",
+			"(\\d+\\W+)",
+			"^(\\W)+",
+			"(^).+(\\D+)($)",
+			"^.+(\\D+)$",
+			"(\\D+)",
+			"Жав",
+			"жаво",
+			"Реали",
+			"^\\s{15,}(\\w+)",
+			"^(\\s{10,})",
+			"№",
+			"товаров и услуг ",
+			"УТ0{1,6}",
+			"\\d{1,2}:\\d{1,2}:\\d{1,2}\\s+",
+			"\\s{7,}.+",
+			".myClassStyle{\n    background-color: #cd66cc;\n}",
+			"paragrafs",
+			"total",
+			"adf",
+			"indentation",
+			"\\btab\\b",
+			"show",
+			"path",
+			"() ",
+			"alert",
+			"mallard",
+			"Mallard",
+			"mallard",
+			"performQuack",
+			"Queak",
+			"Quack",
+			"say",
+			"toy",
+			"i",
+			"=",
+			"valve1",
+			"Object",
+			"b",
+			"lenght",
+			"System",
+			"\"Тип данных",
+			"(\"",
+			"InitialValues",
+			"increment",
+			"Rock",
+			"array",
+			"int",
+			"float",
+			"random",
+			"lang",
+			"main",
+			"RandomFloat",
+			"i",
+			"run",
+			".;",
+			"listing",
+			"InterraptedException",
+			"Consumer",
+			"Producer",
+			"[\\d]2:\\d\\d:\\d\\d.",
+			"[\\d]2:[\\d]2:[\\d]2",
+			"dd:dd:dd",
+			"УТ0000000",
+			"n",
+			"i",
+			"Int",
+			"FixedStack",
+			"dfdfs",
+			"files",
+			"public ",
+			"public",
+			"BoxWeight",
+			"weight",
+			"BoxWeight",
+			"double",
+			"Box",
+			"box",
+			"Box",
+			"box",
+			"Box",
+			"box",
+			"Box",
+			"box",
+			"Box",
+			"box",
+			"Box",
+			"box",
+			"Box",
+			"t;",
+			"depth",
+			"Weyght",
+			"1",
+			"width",
+			";",
+			"double ",
+			"x",
+			"show",
+			"symb",
+			"contractor",
+			"Contractor",
+			"contractor",
+			"Contractor",
+			"contractor",
+			"contractor_id",
+			"KOMMENT",
+			"a",
+			"b",
+			"vim",
+			"tegs",
+			"php"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"$1$2$3",
+			"$1",
+			"$1 + 666666",
+			"$1 adfafda",
+			"№ ",
+			"№",
+			"",
+			"InterruptedException",
+			"",
+			"Счет №",
+			"DynStack",
+			"",
+			"BoxWeight",
+			"Weight"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 267.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "projectLearneGit.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Classes1\\stakan.py"
+			],
+			[
+				"try",
+				"C:\\Users\\Иван\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\try.sublime-snippet"
+			],
+			[
+				"sta",
+				"tr1\\stack\\Stack.java"
+			],
+			[
+				"user",
+				"C:\\Users\\Иван\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default\\Preferences.sublime-settings"
+			],
+			[
+				"setti",
+				"C:\\Users\\Иван\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default\\Preferences.sublime-settings"
+			],
+			[
+				"bo",
+				"BoxDemo.java"
+			],
+			[
+				"sett",
+				"C:\\Users\\Иван\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Preferences.sublime-settings"
+			],
+			[
+				"2ca",
+				"eshop\\admin\\save2cat.php"
+			],
+			[
+				"lib",
+				"eshop\\inc\\lib.inc.php"
+			],
+			[
+				"gb",
+				"inc\\gbook.inc.php"
+			],
+			[
+				"db",
+				"eshop\\inc\\db.inc.php"
+			],
+			[
+				"in",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 327.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
